@@ -1,0 +1,16 @@
+><packagename><
+Perk Milestone Script
+
+><packageauthor><
+Shidouri
+
+><zoneaddition><
+scriptparsetree,scripts/zm/zm_milestones.gsc
+
+><gscusings><
+#using scripts\zm\zm_milestones;
+
+><gscmainpostusermap><
+level thread zm_milestones::Random_Perk_On_Milestone();
+
+><eof><
